@@ -3,7 +3,8 @@
 - a rustlang cargo to upload multiple files at present on the remote server. 
 - reads the ip address, username and the password from the dotenv. 
 - needs the path to the file list.
-- add a cron job and a automatic restore to any remote server.  
+- add a cron job and a automatic restore to any remote server.
+- please see the last commit message and if it says compiled binary then it is completed or else still in development version.
 
 ```
 ╭─gauavsablok@gauravsablok ~/Desktop/rust/rust-serverless ‹main●›
